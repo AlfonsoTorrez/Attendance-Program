@@ -1,5 +1,5 @@
 # Coffee Break
-+ Github Repo: <https://github.com/AlfonsoTorrez/CoffeeBreakTeam6>
+
 ## Dependencies
 
 + Pillow
